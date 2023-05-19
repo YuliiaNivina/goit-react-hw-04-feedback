@@ -1,0 +1,7 @@
+.statisticsList {
+  list-style: none;
+  padding: 0;
+}
+.statisticsItem {
+  font-size: 18px;
+}

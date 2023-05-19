@@ -1,0 +1,9 @@
+.feedbackBtn{
+  padding: 5px;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.feedbackBtn:not(:last-child){
+  margin-right: 10px;
+}
